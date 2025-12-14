@@ -1,4 +1,4 @@
-# Projektstruktur: Värre än döden
+# Book Template
 
 Välkommen till skrivprojektet! Denna mappstruktur är designad för att underlätta skrivprocessen, från lösa idéer till färdigt manus.
 
